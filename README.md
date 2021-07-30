@@ -16,12 +16,7 @@ As an example, here are the first few entries:
 |καρδία|heart|noun|2|
 |κεφαλή|head|noun|2|
 |σοφία|wisdom|noun|2|
-|φωνή|voice; sound|noun|2|
-|χαρά|joy|noun|2|
-|ψυχή|soul; life|noun|2|
-|ἄνθρωπος|man; mankind|noun|3|
-|δαιμόνιον|demon|noun|3|
-|δοῦλος|slave|noun|3|
+|...|...|...|...|
 
 Futher subdivisions of the vocabulary (by chapter or by part of speech) can be found in the folder [vocab_sets](https://github.com/mclee96/Greek_I_Dataset/tree/master/vocab_sets)
 
@@ -37,7 +32,7 @@ In addition, all New Testament occurences of vocabulary have been saved and orga
 |εἰρήνη|εἰρήνη|fem|nom|sg|Mt 10:13,Mt 10:13,Lk 2:14,Lk 10:5,Lk 10:6,Lk 19:38,Lk 24:36,Jn 20:19,Jn 20:21,Jn 20:26,Ro 1:7,Ro 2:10,Ro 8:6,Ro 14:17,1 Co 1:3,2 Co 1:2,Ga 1:3,Ga 5:22,Ga 6:16,Eph 1:2,Eph 2:14,Php 1:2,Php 4:7,Col 1:2,Col 3:15,1 Th 1:1,1 Th 5:3,2 Th 1:2,1 Ti 1:2,2 Ti 1:2,Tt 1:4,Phm 3,1 Pe 1:2,2 Pe 1:2,2 Jn 3,Jud 2,Re 1:4|
 |Εἰρήνην|εἰρήνη|fem|acc|sg|Jn 14:27,Heb 12:14|
 
-Although words do not always appear in all their declensions/conjugations, by studying in sets you can generally ensure that you get adequate exposure to every kind of form. 
+Although words do not always appear in all their declensions/conjugations, by studying words together you can generally ensure that you get adequate exposure to every kind of form. 
 
 ## File Format
 All the files are "Tab Separated Values" (.tsv), which means they can easily be imported or copied and pasted into 
