@@ -40,7 +40,7 @@ In addition, all New Testament occurences of vocabulary have been saved and orga
 Although words do not always appear in all their declensions/conjugations, by studying in sets you can generally ensure that you get adequate exposure to every kind of form. 
 
 ## File Format
-All the files are "Tab Separated Values" (.tsv), which means they can easily be copied and pasted into 
+All the files are "Tab Separated Values" (.tsv), which means they can easily be imported or copied and pasted into 
 * Anki
 * Quizlet
 * Google Spreadsheets
